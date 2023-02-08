@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 08 23:23:46 CST 2023
+@default-gitee-https\://gitee.com/Zzebulon/mavenkeshan/raw/snapshot/.lastUpdated=1675869826867
+https\://gitee.com/Zzebulon/mavenkeshan/snapshot/.lastUpdated=1675869374081
+https\://gitee.com/Zzebulon/mavenkeshan/snapshot/.error=
+https\://gitee.com/Zzebulon/mavenkeshan/raw/snapshot/.error=Could not transfer artifact com.example\:zhou-common2\:jar\:0.0.1-SNAPSHOT from/to gitee (https\://gitee.com/Zzebulon/mavenkeshan/raw/snapshot)\: Checksum validation failed, no checksums available
+http\://dev.flyrise.cn\:8081/repository/maven-public/.error=
+http\://dev.flyrise.cn\:8081/repository/maven-public/.lastUpdated=1675869371125
